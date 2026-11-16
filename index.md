@@ -6,7 +6,7 @@ hide_hero: true
 ---
 
 <div class="has-text-right mb-4 no-print">
-  <button class="button is-info is-rounded" onclick="window.print()">
+  <button class="button is-link is-outlined is-rounded" onclick="window.print()">
     <span>📄 Descargar CV en PDF</span>
   </button>
 </div>
@@ -14,7 +14,7 @@ hide_hero: true
 <div class="columns is-variable is-5">
 
 <div class="column is-4">
-<div class="cv-sidebar-box content" markdown="1">
+<div class="box cv-sidebar-box content" markdown="1">
 
 <img src="perfil.jpeg" alt="Analy Urdaneta" class="profile-photo">
 
@@ -45,7 +45,7 @@ hide_hero: true
 <div class="column is-8 content" markdown="1">
 
 # Analy Urdaneta
-**Software Engineer | Full-Stack & Microservices Development**  
+**Software Engineer | Full-Stack Development**  
 *System Integration | Cloud Solutions, APIs & AI-Driven Development*
 
 ---
