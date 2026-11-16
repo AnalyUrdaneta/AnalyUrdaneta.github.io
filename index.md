@@ -4,7 +4,7 @@
 **SAP BTP & Enterprise Integration | APIs, Cloud Solutions & AI-Driven Development**
 
 
-Tenerife, España · +34 685 168 154 · [analylilie17@gmail.com](mailto:analylilie17@gmail.com) · [LinkedIn](https://www.linkedin.com/in/analy-lilie-urdaneta-llorente-ba3863116/)  
+Tenerife, España · [analylilie17@gmail.com](mailto:analylilie17@gmail.com) · [LinkedIn](https://www.linkedin.com/in/analy-lilie-urdaneta-llorente-ba3863116/)  
 **Idiomas:** Español (Nativo) · Inglés (B2 - Cambridge Linguaskill)
 
 ## PERFIL PROFESIONAL
