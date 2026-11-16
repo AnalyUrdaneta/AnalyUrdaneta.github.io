@@ -16,7 +16,7 @@ hide_hero: true
 <div class="column is-4">
 <div class="cv-sidebar-box content" markdown="1">
 
-<img src="perfil.jpg" alt="Analy Urdaneta" class="profile-photo">
+<img src="perfil.jpeg" alt="Analy Urdaneta" class="profile-photo">
 
 ## Contacto
 
