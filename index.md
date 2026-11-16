@@ -1,3 +1,9 @@
+<div class="pdf-bar no-print">
+  <button class="btn-pdf" onclick="window.print()">
+    📄 Descargar CV en PDF
+  </button>
+</div>
+
 # Analy Urdaneta
 
 **Software Engineer | Full-Stack Development**  
