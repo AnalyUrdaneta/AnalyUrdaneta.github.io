@@ -3,21 +3,28 @@
 
 @import "main";
 
-/* Hacer que la tarjeta lateral llegue hasta el final de la columna */
 .cv-sidebar-box {
-  height: 100%;
+  height: calc(100% + 3.5rem);
+  margin-top: -3.5rem; /* Sube el panel para alargarlo por arriba */
+  padding: 1rem; /* Reduce el padding interno alrededor de la foto */
 }
 
-/* Estilo limpio para la foto (rectangular con bordes suavemente redondeados) */
 .profile-photo {
   width: 100%;
-  max-width: 210px;
-  border-radius: 10px;
-  display: block;
+  max-width: none;
   margin: 0 auto 1.25rem auto;
+  border-radius: 3px; /* Bordes casi rectos */
+  display: block;
 }
 
-/* Reglas para generar el PDF limpio */
+/* Ajuste en móviles para que el panel no choque con el menú superior */
+@media (max-width: 768px) {
+  .cv-sidebar-box {
+    height: auto;
+    margin-top: 0;
+  }
+}
+
 @media print {
   @page {
     size: A4;
@@ -34,5 +41,9 @@
   }
   .column.is-8 {
     width: 66% !important;
+  }
+  .cv-sidebar-box {
+    height: 100%;
+    margin-top: 0;
   }
 }
